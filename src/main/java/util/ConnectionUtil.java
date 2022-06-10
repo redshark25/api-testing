@@ -8,6 +8,8 @@ import java.sql.SQLException;
 
 public class ConnectionUtil {
 
+    //test commit 
+    //test line
     private static String jdbcURL = "jdbc:mysql://localhost:8889/ApiTestingDB?useSSL=false";
     private static String jdbcUsername = "root";
     private static String jdbcPassword = "root";
